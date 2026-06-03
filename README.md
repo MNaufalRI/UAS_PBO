@@ -1,6 +1,5 @@
 # 🦠 Hantavirus Outbreak Management & Analysis System
-Sistem Analisis Manajemen Wabah Hantavirus adalah aplikasi berbasis CLI (Command Line Interface) yang dirancang khusus untuk mengolah, menganalisis, dan menyajikan laporan komprehensif dari data surveilans epidemiologi secara terstruktur. 
-Sistem ini dibangun dengan mengimplementasikan prinsip Pemrograman Berorientasi Objek (OOP) tingkat lanjut serta memenuhi lima prinsip desain SOLID untuk memastikan kode mudah dipelihara (maintainable), diuji (testable), dan dikembangkan (extensible).
+test
 ---
 ## 🚀 Fitur Utama
 Sistem menyediakan 6 modul analisis analitik mendalam yang dieksekusi secara otomatis dari berkas dataset:
